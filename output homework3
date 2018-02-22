@@ -1,0 +1,12 @@
+charAt[2] at chars is P
+charAt[1] at test is A
+length of chars is 9
+length of test is 8
+substring(2,5) of chars is PpY
+lowercase of chars: happyweek
+uppercase of test: HAOPYWEE
+Is chars equal to temp? : true
+Is chars equal to test? : false
+getMyString of temp is haPpYweEk
+Integer to value of 1029: 1029
+Integer to value of -19382: -19382
